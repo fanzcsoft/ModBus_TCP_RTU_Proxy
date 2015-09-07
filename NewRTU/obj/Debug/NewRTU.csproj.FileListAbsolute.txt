@@ -1,0 +1,10 @@
+C:\Users\COBECTb\Documents\GitHubVisualStudio\ModBus_TCP_RTU_Proxy\NewRTU\bin\Debug\NewRTU.exe.config
+C:\Users\COBECTb\Documents\GitHubVisualStudio\ModBus_TCP_RTU_Proxy\NewRTU\bin\Debug\cyberduck.ico
+C:\Users\COBECTb\Documents\GitHubVisualStudio\ModBus_TCP_RTU_Proxy\NewRTU\bin\Debug\NewRTU.exe
+C:\Users\COBECTb\Documents\GitHubVisualStudio\ModBus_TCP_RTU_Proxy\NewRTU\bin\Debug\NewRTU.pdb
+C:\Users\COBECTb\Documents\GitHubVisualStudio\ModBus_TCP_RTU_Proxy\NewRTU\obj\Debug\NewRTU.csprojResolveAssemblyReference.cache
+C:\Users\COBECTb\Documents\GitHubVisualStudio\ModBus_TCP_RTU_Proxy\NewRTU\obj\Debug\NewRTU.Form1.resources
+C:\Users\COBECTb\Documents\GitHubVisualStudio\ModBus_TCP_RTU_Proxy\NewRTU\obj\Debug\NewRTU.Properties.Resources.resources
+C:\Users\COBECTb\Documents\GitHubVisualStudio\ModBus_TCP_RTU_Proxy\NewRTU\obj\Debug\NewRTU.csproj.GenerateResource.Cache
+C:\Users\COBECTb\Documents\GitHubVisualStudio\ModBus_TCP_RTU_Proxy\NewRTU\obj\Debug\NewRTU.exe
+C:\Users\COBECTb\Documents\GitHubVisualStudio\ModBus_TCP_RTU_Proxy\NewRTU\obj\Debug\NewRTU.pdb
